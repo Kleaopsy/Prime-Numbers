@@ -1,0 +1,29 @@
+C:\Users\LAB4\Desktop\Kodlar(by Wyrmau)\Asal Sayılar\Asal Sayılar\bin\Debug\Asal Sayılar.exe.config
+C:\Users\LAB4\Desktop\Kodlar(by Wyrmau)\Asal Sayılar\Asal Sayılar\bin\Debug\Asal Sayılar.exe
+C:\Users\LAB4\Desktop\Kodlar(by Wyrmau)\Asal Sayılar\Asal Sayılar\bin\Debug\Asal Sayılar.pdb
+C:\Users\LAB4\Desktop\Kodlar(by Wyrmau)\Asal Sayılar\Asal Sayılar\obj\Debug\Asal Sayılar.csprojResolveAssemblyReference.cache
+C:\Users\LAB4\Desktop\Kodlar(by Wyrmau)\Asal Sayılar\Asal Sayılar\obj\Debug\Asal_Sayılar.Form1.resources
+C:\Users\LAB4\Desktop\Kodlar(by Wyrmau)\Asal Sayılar\Asal Sayılar\obj\Debug\Asal_Sayılar.Properties.Resources.resources
+C:\Users\LAB4\Desktop\Kodlar(by Wyrmau)\Asal Sayılar\Asal Sayılar\obj\Debug\Asal Sayılar.csproj.GenerateResource.Cache
+C:\Users\LAB4\Desktop\Kodlar(by Wyrmau)\Asal Sayılar\Asal Sayılar\obj\Debug\Asal Sayılar.csproj.CoreCompileInputs.cache
+C:\Users\LAB4\Desktop\Kodlar(by Wyrmau)\Asal Sayılar\Asal Sayılar\obj\Debug\Asal Sayılar.exe
+C:\Users\LAB4\Desktop\Kodlar(by Wyrmau)\Asal Sayılar\Asal Sayılar\obj\Debug\Asal Sayılar.pdb
+C:\Users\LAB4\Desktop\Kodlar\Asal Sayılar\Asal Sayılar\bin\Debug\Asal Sayılar.exe.config
+C:\Users\LAB4\Desktop\Kodlar\Asal Sayılar\Asal Sayılar\bin\Debug\Asal Sayılar.exe
+C:\Users\LAB4\Desktop\Kodlar\Asal Sayılar\Asal Sayılar\bin\Debug\Asal Sayılar.pdb
+C:\Users\LAB4\Desktop\Kodlar\Asal Sayılar\Asal Sayılar\obj\Debug\Asal Sayılar.csprojResolveAssemblyReference.cache
+C:\Users\LAB4\Desktop\Kodlar\Asal Sayılar\Asal Sayılar\obj\Debug\Asal_Sayılar.Form1.resources
+C:\Users\LAB4\Desktop\Kodlar\Asal Sayılar\Asal Sayılar\obj\Debug\Asal_Sayılar.Properties.Resources.resources
+C:\Users\LAB4\Desktop\Kodlar\Asal Sayılar\Asal Sayılar\obj\Debug\Asal Sayılar.csproj.GenerateResource.Cache
+C:\Users\LAB4\Desktop\Kodlar\Asal Sayılar\Asal Sayılar\obj\Debug\Asal Sayılar.csproj.CoreCompileInputs.cache
+C:\Users\LAB4\Desktop\Kodlar\Asal Sayılar\Asal Sayılar\obj\Debug\Asal Sayılar.exe
+C:\Users\LAB4\Desktop\Kodlar\Asal Sayılar\Asal Sayılar\obj\Debug\Asal Sayılar.pdb
+C:\Users\kutay\OneDrive\Masaüstü\Asal Sayılar\Asal Sayılar\bin\Debug\Asal Sayılar.exe.config
+C:\Users\kutay\OneDrive\Masaüstü\Asal Sayılar\Asal Sayılar\bin\Debug\Asal Sayılar.exe
+C:\Users\kutay\OneDrive\Masaüstü\Asal Sayılar\Asal Sayılar\bin\Debug\Asal Sayılar.pdb
+C:\Users\kutay\OneDrive\Masaüstü\Asal Sayılar\Asal Sayılar\obj\Debug\Asal_Sayılar.Form1.resources
+C:\Users\kutay\OneDrive\Masaüstü\Asal Sayılar\Asal Sayılar\obj\Debug\Asal_Sayılar.Properties.Resources.resources
+C:\Users\kutay\OneDrive\Masaüstü\Asal Sayılar\Asal Sayılar\obj\Debug\Asal Sayılar.csproj.GenerateResource.cache
+C:\Users\kutay\OneDrive\Masaüstü\Asal Sayılar\Asal Sayılar\obj\Debug\Asal Sayılar.csproj.CoreCompileInputs.cache
+C:\Users\kutay\OneDrive\Masaüstü\Asal Sayılar\Asal Sayılar\obj\Debug\Asal Sayılar.exe
+C:\Users\kutay\OneDrive\Masaüstü\Asal Sayılar\Asal Sayılar\obj\Debug\Asal Sayılar.pdb
